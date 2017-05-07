@@ -1,0 +1,22 @@
+{
+  "name": "rezize-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Bizzi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.14.0",
+    "fs-extra": "^3.0.1",
+    "http": "0.0.0",
+    "mongodb": "^2.2.10",
+    "request": "^2.81.0",
+    "sharp": "^0.17.3",
+    "sync": "^0.2.5"
+  }
+}
